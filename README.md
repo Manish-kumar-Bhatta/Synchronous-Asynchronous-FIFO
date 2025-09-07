@@ -57,5 +57,4 @@ The aim of this project is to understand:
 ## 👤 Author
 
 **Manish Bhatta**
-*(Feel free to add contributors, guides, or your GitHub profile link)*
-
+Developed by: [Manish Kumar Bhatta] LinkedIn: [https://www.linkedin.com/in/manish-ku-bhatta-985080272]
