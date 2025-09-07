@@ -33,7 +33,7 @@ The aim of this project is to understand:
   * Self-checking testbenches for both FIFOs.
   * Randomized stimulus (read/write sequences).
   * Corner cases tested: reset, overflow, underflow.
-  * 
+  
 ## 📂 Project Structure
 
 
